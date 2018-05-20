@@ -17,4 +17,5 @@ int functions()
 	multiplyAndLog(4, 8);
 
 	std::cin.get();
+	return 0;
 }
