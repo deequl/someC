@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int debug() {
 	//BreakPoints	//Use F9
 	int v = 5;
 	std::cout << v << std::endl;
@@ -18,4 +18,7 @@ int main() {
 	}
 
 	std::cin.get();
+
+
+	return 1;
 }
